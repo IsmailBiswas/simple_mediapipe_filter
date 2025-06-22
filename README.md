@@ -23,3 +23,6 @@ This Python script applies a real-time "sunglass" overlay to detected faces usin
     ```bash
     python main.py
     ```
+
+### These display flickers are a system-wide issue, not related to this application
+![Demo](./demovid/output.gif)
